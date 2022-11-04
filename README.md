@@ -1,16 +1,17 @@
 # git_app
+![WhatsApp Image 2022-11-04 at 17 50 34](https://user-images.githubusercontent.com/91565180/199971524-52923178-7ada-40f9-8c51-0d8e11d39a1c.jpeg)
 
 A new Flutter project.
 
-## Getting Started
+# Packages Used
+ ## provider
+ ## google_fonts
+ ## dio
+ ## fluttertoast
+ ## intl
+ ## cached_network_image
+ ## shimmer
+ ## sqflite
+ ## path_provider
+ ## animate_do
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
